@@ -12,7 +12,7 @@ xx
 <!-- ![image](https://user-images.githubusercontent.com/25634451/139131376-f6266fd8-ceed-4380-9668-d396950ad84b.png) -->
 
 <!-- example code tabulate  -->
-### long version of the code 
+<!-- ### long version of the code 
     const ordered = inventors.sort(function(a,b){
         if(a.year > b.year) {
               return 1;
@@ -20,7 +20,7 @@ xx
         return -1;
        }
     });    
-    console.table(ordered);
+    console.table(ordered); -->
 
     
 ## Approach
